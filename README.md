@@ -1,6 +1,4 @@
 # Freed APK's
-------------------------------------------------------------------------------------------
-
 ```
       FFFFFFF  RRRR   EEEEEE  EEEEEE  DDDD          A      PPPP   K    K  ' '   SSSSS
       F        R   R  E       E       D   D        A A     P   P  K  K    ' '   S
@@ -8,6 +6,8 @@
       F        R R    E       E       D   D      AAAAAAA   P      K  K              S
       F        R   R  EEEEEE  EEEEEE  DDDD      A       A  P      K    K        SSSSS
 ```
+---------------------------------------------------------------------------------------------------------
+
 A collection of google-free APK's, that aims to provide free and easily installable APK's, all have 
 been reconstructed and signed with a generic dev key.
 ```
