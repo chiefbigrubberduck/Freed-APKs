@@ -11,6 +11,8 @@ A collection of google-free APK's, that aims to provide free and easily installa
 been reconstructed and signed with a generic dev key.
 It is important to note that they can be installed without using the Google Play interface (you simply click and install the apk file), but certain apps will still rely on Google Play services, whilst you can also use GServices alternatives, such as MicroG.
 
+> [!IMPORTANT]
+> If you download something, but the link that appears is not github.com, STOP. Your traffic is being intercepted and changed. All APK files, are hosted in this repo, never somewhere external, where they could be compromised.
 ---------------------------------------------------------------------------------------------------------
 ```
 File downloaded from Google Play (through Aurora Store, a GPlay frontend alternative) --↓
