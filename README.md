@@ -14,6 +14,7 @@ It is important to note that they can be installed without using the Google Play
 > [!IMPORTANT]
 > When downloading, and a link that appears is not github.com, STOP. Your traffic is being somehow changed. All APK files, are hosted in this repo, never somewhere external, where they could be compromised.
 ---------------------------------------------------------------------------------------------------------
+
 ```
 File downloaded from Google Play (through Aurora Store, a GPlay frontend alternative) --↓
 Splits are combined into a full .apk --↓
