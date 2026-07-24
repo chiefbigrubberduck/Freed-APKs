@@ -12,7 +12,7 @@ been reconstructed and signed with a generic dev key.
 It is important to note that they can be installed without using the Google Play interface (you simply click and install the apk file), but certain apps will still rely on Google Play services, whilst you can also use GServices alternatives, such as MicroG.
 
 > [!IMPORTANT]
-> If you download something, but the link that appears is not github.com, STOP. Your traffic is being intercepted and changed. All APK files, are hosted in this repo, never somewhere external, where they could be compromised.
+> When downloading, and a link that appears is not github.com, STOP. Your traffic is being somehow changed. All APK files, are hosted in this repo, never somewhere external, where they could be compromised.
 ---------------------------------------------------------------------------------------------------------
 ```
 File downloaded from Google Play (through Aurora Store, a GPlay frontend alternative) --↓
@@ -26,7 +26,7 @@ The following apps are updated as new versions come out, but may be slightly out
 Games
 * [Alto's Adventures - Both games](https://github.com/chiefbigrubberduck/Freed-APKs/wiki/Alto's-Adventures)
 * Brawl Stars (Coming soon)
-* Geometry Dash Lite (Coming soon)
+* [Geometry Dash Lite](https://github.com/chiefbigrubberduck/Freed-APKs/wiki/Geometry-Dash-Lite)
 
 Music
 * [Soundcore](https://github.com/chiefbigrubberduck/Freed-APKs/wiki/Soundcore-App)
